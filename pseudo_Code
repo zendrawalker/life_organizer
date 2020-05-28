@@ -1,0 +1,5 @@
+- motivational quotes generator:
+1. create a file containing motivational quotes
+2. create a function to:
+    - choose a random quote from the file
+    - print it on the screen
